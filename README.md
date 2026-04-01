@@ -7,6 +7,8 @@ The program finds sum, average, largest number, smallest number, duplicate value
 
 I wrote different functions for each task to understand loops, conditions and lists better.
 
+update:menu function added to program
+
 Language:
 Python
 
